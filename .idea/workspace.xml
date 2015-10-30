@@ -41,10 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bb.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bb.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bb.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="106" selection-end="106" vertical-scroll-proportion="0.31760436" vertical-offset="0" max-vertical-offset="551">
+            <state line="9" column="7" selection-start="121" selection-end="121" vertical-scroll-proportion="-6.617647" vertical-offset="0" max-vertical-offset="400">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cc.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="34" selection-start="126" selection-end="126" vertical-scroll-proportion="0.31760436" vertical-offset="0" max-vertical-offset="551">
               <folding />
             </state>
           </provider>
@@ -71,6 +80,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aa.html" />
         <option value="$PROJECT_DIR$/bb.html" />
+        <option value="$PROJECT_DIR$/cc.html" />
       </list>
     </option>
   </component>
@@ -230,7 +240,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bb.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="106" selection-end="106" vertical-scroll-proportion="0.31760436" vertical-offset="0" max-vertical-offset="551">
+        <state line="9" column="7" selection-start="121" selection-end="121" vertical-scroll-proportion="-6.617647" vertical-offset="0" max-vertical-offset="400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="126" selection-end="126" vertical-scroll-proportion="0.31760436" vertical-offset="0" max-vertical-offset="551">
           <folding />
         </state>
       </provider>
